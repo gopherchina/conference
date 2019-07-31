@@ -1,5 +1,22 @@
 # Golang conference PPT
 
+### 2019
+
+* [1.1 大型微服务框架设计实践 - 杜欢.pdf](/2019/1.1%20大型微服务框架设计实践%20-%20杜欢.pdf)
+* [1.2 用Go打造Grab的路径规划和ETA引擎.pdf](/2019/)
+* [1.3 Go practices in TiDB - 姚维.pdf](/2019/)
+* [1.4 Testing; how, what, why - Dave .pdf](/2019/)
+* [1.5 Go 业务开发中 Error & Context - 毛剑.pdf](/2019/)
+* [1.6 Go并发编程实践 - 晁岳攀.pdf](/2019/)
+* [1.7 百度APP Go 语言实践 - 陈肖楠.pdf](/2019/)
+* [1.8 Golang to build a real-time interactive SaaS Cloud - 董海冰.pdf](/2019/)
+* [2.1 基于MINIO的对象存储方案在探探的实践 - 于乐.pdf](/2019/)
+* [2.2 从零开始用 Go 实现 Lexer & Parser - 何源.pdf](/2019/)
+* [2.3 高性能高可用的微服务框架TarsGo的腾讯实践 - 陈明杰.pdf](/2019/)
+* [2.4 闪电网络—BTC小额支付解决方案 - 方圆.pdf](/2019/)
+* [2.6 用Go构建高性能数据库中间件- 徐成选.pdf](/2019/)
+* [2.7 花椒直播基于golang的中台技术实践 - 周洋.pdf](/2019/)
+* [2.8 知乎社区核心业务 Golang 化实践 - 杜旭.pdf](/2019/)
 
 ### 2018
 * [1.1 基于Go构建滴滴核心业务平台的实践.pdf](/2018/1.1%20基于Go构建滴滴核心业务平台的实践.pdf)
