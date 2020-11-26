@@ -1,7 +1,25 @@
 # Golang conference PPT
 
 ### 2020
-* []()
+* [1.2 探探分布式存储的实践.pdf](/2020/1.2%20探探分布式存储的实践.pdf)
+* [1.3 go-programming-patterns.pdf](/2020/1.3%20go-programming-patterns.pdf)
+* [1.4 Golang in GrabFood Discovery System.pdf](/2020/1.4%20Golang%20%20in%20GrabFood%20%20Discovery%20System.pdf)
+* [1.5 华为云的go语言云原生实战经验.pdf](/2020/1.5%20华为云的go语言云原生实战经验.pdf)
+* [1.6 Functional options and config for APIs.pdf](/2020/1.6%20Functional%20options%20and%20config%20for%20APIs.pdf)
+* [2.1.1 百度万亿流量转发平台背后的故事.pdf](/2020/2.1.1%20百度万亿流量转发平台背后的故事.pdf)
+* [2.1.2 Go如何帮滴滴支撑海量运维场景.pdf](/2020/2.1.2%20Go如何帮滴滴支撑海量运维场景.pdf)
+* [2.1.3 如何用go module构建模块化跨链平台.pdf](/2020/2.1.3%20如何用go%20module构建模块化跨链平台.pdf)
+* [2.1.4 PingCAP-Go runtime related problems in TiDB production environment.pdf](/2020/2.1.4%20PingCAP-Go%20runtime%20related%20problems%20in%20TiDB%20production%20environment.pdf)
+* [2.1.5 Go语言编译器简介.pdf](/2020/2.1.5%20Go语言编译器简介.pdf)
+* [2.1.6 基于TarsGo的云原生微服务架构演进.pdf](/2020/2.1.6%20基于TarsGo的云原生微服务架构演进.pdf)
+* [2.1.7 使用Golang实现万人同服的游戏服务器.pdf](/2020/2.1.7%20使用Golang实现万人同服的游戏服务器.pdf)
+* [2.2.1 Go in the Cloud - Why People Choose Go for Cloud Computing.pdf](/2020/2.2.1%20Go%20in%20the%20Cloud%20-%20Why%20People%20Choose%20Go%20for%20Cloud%20Computing.pdf)
+* [2.2.2 云原生go-zero微服务框架设计思考.pdf](/2020/2.2.2%20云原生go-zero微服务框架设计思考.pdf)
+* [2.2.3 Go+演进之路.pdf](/2020/2.2.3%20Go%2B演进之路.pdf)
+* [2.2.4 直播长链接架构演进.pdf](/2020/2.2.4%20直播长链接架构演进.pdf)
+* [2.2.5 go-Chassis 在 shopee 供应链的实践.pdf](/2020/2.2.5%20go-Chassis%20在%20shopee%20供应链的实践.pdf)
+* [2.2.6 Golang大规模云原生应用管理实践.pdf](/2020/2.2.6%20Golang大规模云原生应用管理实践.pdf)
+* [2.2.7 GORM 剖析与最佳实践.pdf](/2020/2.2.7%20GORM%20剖析与最佳实践.pdf)
 
 ### 2019
 * [1.1 大型微服务框架设计实践 - 杜欢](/2019/1.1%20大型微服务框架设计实践%20-%20杜欢.pdf)
