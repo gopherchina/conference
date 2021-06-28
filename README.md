@@ -1,6 +1,29 @@
 # Golang conference PPT
 
+### 2021
+
+- [1.2 基于 Golang 构建高可扩展的云原生 PaaS 平台](/2021/1.2 基于 Golang 构建高可扩展的云原生 PaaS 平台.pdf)
+- [1.3 MOSN 在云原生的探索及实践](/2021/1.3 MOSN 在云原生的探索及实践.pdf)
+- [1.4 Tracing in TiDB](/2021/1.4 Tracing in TiDB.pdf)
+- [1.5 Improving Go Backend Developer Experience in Grab](/2021/1.5 Improving Go Backend Developer Experience in Grab.pdf)
+- [1.6 利用夜莺扩展能力打造全方位监控系统](/2021/1.6 利用夜莺扩展能力打造全方位监控系统.pdf)
+- [2.1.1 Golang主动式内存缓存的优化探索之路](/2021/2.1.1 Golang主动式内存缓存的优化探索之路.pdf)
+- [2.1.2 goplus-gopher-china](/2021/2.1.2 goplus-gopher-china.pdf)
+- [2.1.3 如何用Go模拟CPU](/2021/2.1.3 如何用Go模拟CPU.pdf)
+- [2.1.4 The Zen of Go](/2021/2.1.4 The Zen of Go.pdf)
+- [2.1.5 Processing XML and Spreadsheet Data in Go](/2021/2.1.5 Processing XML and Spreadsheet Data in Go.pdf)
+- [2.1.6 阿里巴巴新一代基于 Go 的云原生应用引擎实践](/2021/2.1.6 阿里巴巴新一代基于 Go 的云原生应用引擎实践.pdf)
+- [2.1.7 谈如何构建易于拆分的单体应用](/2021/2.1.7 谈如何构建易于拆分的单体应用.pdf)
+- [2.2.1 深入Go Module](/2021/2.2.1 深入Go Module.pdf)
+- [2.2.2 深入理解BFE](/2021/2.2.2 深入理解BFE.pdf)
+- [2.2.3 Go语言的抢占式调度](/2021/2.2.3 Go语言的抢占式调度.pdf)
+- [2.2.4 基于Kubernetes的私有云实战](/2021/2.2.4 基于Kubernetes的私有云实战.pdf)
+- [2.2.5 Go 如何助力企业进行微服务转型](/2021/2.2.5 Go 如何助力企业进行微服务转型.pdf)
+- [2.2.6 字节跳动在 Go 网络库上的实践](/2021/2.2.6 字节跳动在 Go 网络库上的实践.pdf)
+- [2.2.7 云原生技术在2B交付中的实践](/2021/2.2.7 云原生技术在2B交付中的实践.pdf)
+
 ### 2020
+
 * [1.2 探探分布式存储的实践.pdf](/2020/1.2%20探探分布式存储的实践.pdf)
 * [1.3 go-programming-patterns.pdf](/2020/1.3%20go-programming-patterns.pdf)
 * [1.4 Golang in GrabFood Discovery System.pdf](/2020/1.4%20Golang%20%20in%20GrabFood%20%20Discovery%20System.pdf)
